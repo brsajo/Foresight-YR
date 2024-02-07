@@ -1,0 +1,6 @@
+
+Client/ClientCrashLogs/
+
+*.log
+
+debug/snapshot-20240205-221455/except.txt
