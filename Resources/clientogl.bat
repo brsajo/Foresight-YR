@@ -1,0 +1,2 @@
+cd ..
+YRLauncher.exe -OGL
