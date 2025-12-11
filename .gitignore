@@ -9,6 +9,8 @@ BINKW32.DLL
 
 Blowfish.dll
 
+Client/dscore.dat
+
 gamemd.exe
 
 langmd.mix
@@ -24,3 +26,25 @@ multimd.mix
 ra2.mix
 
 ra2md.mix
+
+Client/dscore.dat
+
+spawn.ini
+
+spawnmap.ini
+
+stats.dmp
+
+Client/SkirmishSettings.ini
+
+debug/snapshot-20240208-152703/except.txt
+
+debug/snapshot-20240208-152815/except.txt
+
+debug/snapshot-20240208-152855/except.txt
+
+RA2MD.ini
+
+Screenshots/
+
+ddraw.ini
